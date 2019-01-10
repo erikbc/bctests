@@ -1,0 +1,17 @@
+{
+  "name": "bigcommerce-qa-tests",
+  "version": "1.0.0",
+  "description": "A basic boilterplate for testing in BCAPP.",
+  "main": "",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "author": "MDC SDET Team",
+  "dependencies": {
+    "datauri": "^1.0.5",
+    "jasmine-spec-reporter": "^3.2.0",
+    "protractor": "^5.1.1",
+    "protractor-beautiful-reporter": "^0.4.6",
+    "ssl-root-cas": "^1.2.4"
+  }
+}
